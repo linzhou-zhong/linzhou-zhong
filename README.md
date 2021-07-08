@@ -3,8 +3,11 @@
 <h4 align="center"><samp> Code for the World 💻 and Plant for the Planet 🌲. </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/YlrjOJxFKUMGmbDxva/giphy.gif">
+<!--   <img width="250" src="https://media.giphy.com/media/YlrjOJxFKUMGmbDxva/giphy.gif"> -->
+    <img width="500" src="https://monophy.com/media/d9Bxf3MkWOI7pu8pZv/monophy.gif">
 </p>
+
+
 
 
 <p align="center">
